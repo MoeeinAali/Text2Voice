@@ -1,2 +1,2 @@
 # Text2Voice
-# a Python code to conver Text to Voice
+# a Python code to convert Text to Voice
